@@ -24,14 +24,14 @@ Este projeto Python implementa um sistema de otimização para operação de bom
 ## Instalação
 
 ### Requisitos
-- Python 3.8 ou superior
+- Python 3.11 ou superior
   ```bash
   ## Pré-requisitos e Configuração
 
 ### 📦 Bibliotecas Necessárias
 Instale as seguintes bibliotecas Python:
 
-pip install numpy==1.23.5 scipy==1.9.3 matplotlib==3.6.1
+pip install numpy scipy matplotlib
 
  
   
