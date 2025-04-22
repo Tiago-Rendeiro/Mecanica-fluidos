@@ -1,9 +1,9 @@
-# Mecanica-fluidos
-Explicação detalhada do código
 # Operação Otimizada de Bombagem em Sistemas de Distribuição de Água
 
 ## Visão Geral do Projeto
 Este projeto Python implementa um sistema de otimização para operação de bombas em redes de abastecimento de água, desenvolvido no âmbito académico da disciplina de Mecânica dos fluidos. O sistema minimiza custos energéticos respeitando restrições hidráulicas e padrões de consumo variáveis.
+
+
 
 ## Funcionalidades Principais
 
@@ -25,7 +25,6 @@ Este projeto Python implementa um sistema de otimização para operação de bom
 
 ### Requisitos
 - Python 3.8 ou superior
-- Pacotes necessários:
   ```bash
   ## Pré-requisitos e Configuração
 
@@ -33,5 +32,6 @@ Este projeto Python implementa um sistema de otimização para operação de bom
 Instale as seguintes bibliotecas Python:
 
 pip install numpy==1.23.5 scipy==1.9.3 matplotlib==3.6.1
+
  
   
