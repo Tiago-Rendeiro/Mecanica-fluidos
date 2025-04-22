@@ -34,11 +34,13 @@ Instale as seguintes bibliotecas Python usando o código:
 pip install numpy scipy matplotlib
 
 ###🚀 Como correr
+
 Executa o script principal:
 
 python after24V2.py
 
 ##📊 Resultados
+
 O script gera gráficos com:
 
 -Estado da bomba (ligada/desligada)
